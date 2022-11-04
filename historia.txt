@@ -3,3 +3,5 @@ Este es la historia de Carlos David
 David tiene 26 años y nació en Colombia
 
 Mañana nos enofocaremos en su vida laboral.
+
+Emepzo a trabajar como DevOps.
